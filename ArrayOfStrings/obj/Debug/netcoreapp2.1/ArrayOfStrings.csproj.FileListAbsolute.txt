@@ -1,0 +1,11 @@
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\bin\Debug\netcoreapp2.1\ArrayOfStrings.deps.json
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\bin\Debug\netcoreapp2.1\ArrayOfStrings.runtimeconfig.json
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\bin\Debug\netcoreapp2.1\ArrayOfStrings.runtimeconfig.dev.json
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\bin\Debug\netcoreapp2.1\ArrayOfStrings.dll
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\bin\Debug\netcoreapp2.1\ArrayOfStrings.pdb
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\obj\Debug\netcoreapp2.1\ArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\obj\Debug\netcoreapp2.1\ArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\obj\Debug\netcoreapp2.1\ArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\obj\Debug\netcoreapp2.1\ArrayOfStrings.AssemblyInfo.cs
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\obj\Debug\netcoreapp2.1\ArrayOfStrings.dll
+C:\Users\N\Desktop\Технологии программирования\ArrayOfStrings\obj\Debug\netcoreapp2.1\ArrayOfStrings.pdb

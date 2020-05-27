@@ -1,0 +1,11 @@
+C:\Users\N\Desktop\Технологии программирования\CharArray\obj\Debug\netcoreapp2.1\CharArray.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\Технологии программирования\CharArray\obj\Debug\netcoreapp2.1\CharArray.AssemblyInfoInputs.cache
+C:\Users\N\Desktop\Технологии программирования\CharArray\obj\Debug\netcoreapp2.1\CharArray.AssemblyInfo.cs
+C:\Users\N\Desktop\Технологии программирования\CharArray\bin\Debug\netcoreapp2.1\CharArray.deps.json
+C:\Users\N\Desktop\Технологии программирования\CharArray\bin\Debug\netcoreapp2.1\CharArray.runtimeconfig.json
+C:\Users\N\Desktop\Технологии программирования\CharArray\bin\Debug\netcoreapp2.1\CharArray.runtimeconfig.dev.json
+C:\Users\N\Desktop\Технологии программирования\CharArray\bin\Debug\netcoreapp2.1\CharArray.dll
+C:\Users\N\Desktop\Технологии программирования\CharArray\bin\Debug\netcoreapp2.1\CharArray.pdb
+C:\Users\N\Desktop\Технологии программирования\CharArray\obj\Debug\netcoreapp2.1\CharArray.dll
+C:\Users\N\Desktop\Технологии программирования\CharArray\obj\Debug\netcoreapp2.1\CharArray.pdb
+C:\Users\N\Desktop\Технологии программирования\CharArray\obj\Debug\netcoreapp2.1\CharArray.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\bin\Debug\netcoreapp2.1\ExampleStringBuilder.deps.json
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\bin\Debug\netcoreapp2.1\ExampleStringBuilder.runtimeconfig.json
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\bin\Debug\netcoreapp2.1\ExampleStringBuilder.runtimeconfig.dev.json
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\bin\Debug\netcoreapp2.1\ExampleStringBuilder.dll
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\bin\Debug\netcoreapp2.1\ExampleStringBuilder.pdb
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\obj\Debug\netcoreapp2.1\ExampleStringBuilder.csprojAssemblyReference.cache
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\obj\Debug\netcoreapp2.1\ExampleStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\obj\Debug\netcoreapp2.1\ExampleStringBuilder.AssemblyInfoInputs.cache
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\obj\Debug\netcoreapp2.1\ExampleStringBuilder.AssemblyInfo.cs
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\obj\Debug\netcoreapp2.1\ExampleStringBuilder.dll
+C:\Users\N\Desktop\Технологии программирования\ExampleStringBuilder\obj\Debug\netcoreapp2.1\ExampleStringBuilder.pdb

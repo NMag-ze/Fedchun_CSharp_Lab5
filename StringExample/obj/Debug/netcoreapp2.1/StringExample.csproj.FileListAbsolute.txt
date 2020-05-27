@@ -1,0 +1,11 @@
+C:\Users\N\Desktop\Технологии программирования\StringExample\bin\Debug\netcoreapp2.1\StringExample.deps.json
+C:\Users\N\Desktop\Технологии программирования\StringExample\bin\Debug\netcoreapp2.1\StringExample.runtimeconfig.json
+C:\Users\N\Desktop\Технологии программирования\StringExample\bin\Debug\netcoreapp2.1\StringExample.runtimeconfig.dev.json
+C:\Users\N\Desktop\Технологии программирования\StringExample\bin\Debug\netcoreapp2.1\StringExample.dll
+C:\Users\N\Desktop\Технологии программирования\StringExample\bin\Debug\netcoreapp2.1\StringExample.pdb
+C:\Users\N\Desktop\Технологии программирования\StringExample\obj\Debug\netcoreapp2.1\StringExample.csprojAssemblyReference.cache
+C:\Users\N\Desktop\Технологии программирования\StringExample\obj\Debug\netcoreapp2.1\StringExample.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\Технологии программирования\StringExample\obj\Debug\netcoreapp2.1\StringExample.AssemblyInfoInputs.cache
+C:\Users\N\Desktop\Технологии программирования\StringExample\obj\Debug\netcoreapp2.1\StringExample.AssemblyInfo.cs
+C:\Users\N\Desktop\Технологии программирования\StringExample\obj\Debug\netcoreapp2.1\StringExample.dll
+C:\Users\N\Desktop\Технологии программирования\StringExample\obj\Debug\netcoreapp2.1\StringExample.pdb

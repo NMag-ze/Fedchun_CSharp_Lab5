@@ -1,0 +1,11 @@
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\bin\Debug\netcoreapp2.1\SplitJoin.deps.json
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\bin\Debug\netcoreapp2.1\SplitJoin.runtimeconfig.json
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\bin\Debug\netcoreapp2.1\SplitJoin.runtimeconfig.dev.json
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\bin\Debug\netcoreapp2.1\SplitJoin.dll
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\bin\Debug\netcoreapp2.1\SplitJoin.pdb
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\obj\Debug\netcoreapp2.1\SplitJoin.csprojAssemblyReference.cache
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\obj\Debug\netcoreapp2.1\SplitJoin.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\obj\Debug\netcoreapp2.1\SplitJoin.AssemblyInfoInputs.cache
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\obj\Debug\netcoreapp2.1\SplitJoin.AssemblyInfo.cs
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\obj\Debug\netcoreapp2.1\SplitJoin.dll
+C:\Users\N\Desktop\Технологии программирования\SplitJoin\obj\Debug\netcoreapp2.1\SplitJoin.pdb
